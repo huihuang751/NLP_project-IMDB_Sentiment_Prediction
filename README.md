@@ -1,5 +1,5 @@
 # NLP project: IMDB Sentiment Prediction
-## Goal: IMDB comment sentiment prediction
+Goal: IMDB comment sentiment prediction
 
 # Using Method
 * Classifier: SVM, Decision tree, Logistic Regression
