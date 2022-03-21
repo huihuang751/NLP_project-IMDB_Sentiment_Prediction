@@ -14,7 +14,7 @@ IMDB movie comment sentiment prediction using classification method.
 
 ## Result
 
-# F1 score
+### F1 score
 * Images
 Comment
 
