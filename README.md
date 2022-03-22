@@ -25,4 +25,4 @@ Line2
 Line3
 
 ## Usage
-This project is best viewed in a notebook viewer, which can be accessed [here](#https://nbviewer.org/github/huihuang751/NLP_project-IMDB_Sentiment_Prediction/blob/main/IDMB_sentiment_prediction.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
+This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.org/github/huihuang751/NLP_project-IMDB_Sentiment_Prediction/blob/main/IDMB_sentiment_prediction.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
