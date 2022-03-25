@@ -13,13 +13,14 @@ In this exercise, several classifier models, such as SVM, decision tree, and log
 
 ## Result
 
-### F1 score
 ![](/images/Score.png)
 
 ## Conclusion
-Line1
-Line2
-Line3
+* Logistic Regression successfully achieve 82% F1 score. 
+* Adjusting models' paramters by GridSearchCV, F1 score does not have significant improvement (opt).
+* Further clean text by using stop word method keeps F1 score (Cln).
+* We suspect it is resulted from bag-of-words method (One-hot encoding).
+* One-hot encoding would cause curse of dimensionality and sparse vectors.
 
 ## Usage
 This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.org/github/huihuang751/NLP_project-IMDB_Sentiment_Prediction/blob/main/IDMB_sentiment_prediction.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
