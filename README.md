@@ -14,8 +14,7 @@ In this exercise, several classifier models, such as SVM, decision tree, and log
 ## Result
 
 ### F1 score
-* Images
-Comment
+![](/images/Score.png)
 
 ## Conclusion
 Line1
