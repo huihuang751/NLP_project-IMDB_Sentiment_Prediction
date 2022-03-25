@@ -7,8 +7,8 @@
 * [Usage](#Usage)
 
 ## Background
-In this exercise, several classifier models, such as SVM, decision tree, and logistic regression, are applied to predict sentiment of reviews.   IMDB dataset having 50K movie reviews for natural language processing or Text analytics. We use a set of 25,000 highly polar movie reviews for training and 25,000 for testing. Click [here](https://ai.stanford.edu/~amaas/data/sentiment/) for more dataset information.
-You also can be accessed [here](https://nbviewer.org/github/huihuang751/NLP_project-IMDB_Sentiment_Prediction/blob/main/IDMB_sentiment_prediction.ipynb) to see my Jupyter Notbook in detail.
+In this exercise, several classifier models, such as SVM, decision tree, and logistic regression, are applied to predict sentiment of reviews.   IMDB dataset having 50K movie reviews for natural language processing or Text analytics. We use a set of 25,000 highly polar movie reviews for training and 25,000 for testing.   Click [here](https://ai.stanford.edu/~amaas/data/sentiment/) for more dataset information.
+   You also can be accessed [here](https://nbviewer.org/github/huihuang751/NLP_project-IMDB_Sentiment_Prediction/blob/main/IDMB_sentiment_prediction.ipynb) to see my Jupyter Notbook in detail.
 
 ## Result
 
